@@ -1,0 +1,48 @@
+Här samlar du enklast svaren till alla frågor.
+
+
+**Fråga:** Vilken var lättast att använda? När kan du tänka dig att den ena eller den andra är bättre?
+
+Svar: less är lättare att använda då koden öppnas i ett blankt fönster så man vet vad som fanns i koden. cat kan nog vara bättre om man bara snabbt vill kolla på en del av koden snabbt då man inte behöver trycka på Q för att sedan komma ifrån koden. Det positiva med less är att när man tryckt på Q så ligger inte koden och ”skräpar” i terminalfönstret.
+
+
+**Fråga:** Vem vann kodskrivartävlingen?
+
+Svar: Jag vann, index.js innehöll 186 rader och queue.js innehöll 172.
+
+
+**Fråga:** Hur många java filer hittade du?
+
+Svar: 1707
+
+
+**Fråga:** Var ligger filen och vad heter den?
+
+Svar: ./random/stuff/way/spring-batch/spring-batch-infrastructure/src/main/java/org/springframework/batch/item/List.java
+
+
+**Fråga:** Hur många unika matchningar finns det?
+
+Svar: 323
+
+
+**Fråga:** Hur många unika namn finns det?
+
+Svar: 150
+
+**Fråga:** vad är latin1/utf-8
+
+Svar: -Teckenkodningar som kan konvertera binära sekvenser till läsbar text. Teckenkodningarna konverterar olika och kan därför orsaka att texten är oläsbar om fel teckenkodning används.
+
+
+**Fråga:** Hur kopierar och klistrar man i terminalen
+
+Svar: - Commando: cp [Fil eller directory man vill kopiera] [Directory där det ska klistras in]
+Note: om man skriver “cp a.txt b.txt” kommer innehållet av a.txt skrivas in i b.txt
+
+
+**Fråga:** vad är problemet med mellanslag i filnamn?
+
+Svar: -Om man inte är försiktig kan mellanslag göra att filen inte läses som en fil. Mellanslag kan felläsas som  separatorer mellan kommandon eller inputs i terminalen
+T.ex. Kommandot ”touch test 1.txt” kommer skapa två filer, en som heter ”test” och en som heter ”1.txt”
+Kommandot ”touch test\ 1.txt kommer dock skapa en fil som heter ”test 1.txt”s

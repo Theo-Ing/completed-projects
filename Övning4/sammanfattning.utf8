@@ -1,0 +1,7 @@
+Objekt är instans av (någon) datastruktur
+ - På detta objekt kan vi utföra diverse metoder
+  - Tex: en lista är ett objekt, och på listor kan vi använda metoden append() för att lägga till element, [1,2,3,].append(5)
+
+Hur dessa objekt kan bete sig (tex vilka metoder vi kan anropa på dem, och andra egenskaper) bestäms av objektets klass. Tänk på klasser som en mall!
+
+Några inbyggda klasser: int, str, list, float
